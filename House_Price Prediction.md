@@ -14,7 +14,7 @@ The primary objective of this project is to develop an accurate predictive model
 
 ## Project Workflow
 
-![workflow_price](images/workflow_price.png)
+![workflow_price2](images/workflow_price2.png)
 
 ## Exploratory Data Analysis
 
